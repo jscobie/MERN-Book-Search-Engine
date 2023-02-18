@@ -9,7 +9,7 @@ This challenge is a MERN based Book Search Engine. We were provided a code base 
 
 ### Required links for review and grading submission
 [Github Repository Link](https://github.com/jscobie/MERN-Book-Search-Engine)<br>
-[Git Pages Deployed Site]()<br>
+[Git Pages Deployed Site](https://hidden-earth-55114.herokuapp.com/)<br>
 <br>
 Video walkthrough of working Book Search Application<br>
 [Video walkthrough of completed application](https://drive.google.com/file/d/1uW_dYJsDFB3zHiU3b3xuh0XSvJ6iIpTa/view)
