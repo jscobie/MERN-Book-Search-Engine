@@ -5,11 +5,11 @@
 
 ## Description
 
-This challenge is a MERN based Book Search Engine. We were provided a code base using restful API's and tasked with making this site use Apollo GraphQL.
+This challenge is a MERN based Book Search Engine. We were provided a code base using restful API's and tasked with making this site use Apollo GraphQL. This refactor project was a process to handle a modernization of Resful APIs into the newer GraphQL systems.
 
 ### Required links for review and grading submission
 [Github Repository Link](https://github.com/jscobie/MERN-Book-Search-Engine)<br>
-[Git Pages Deployed Site](https://hidden-earth-55114.herokuapp.com/)<br>
+[Heroku Deployed Site](https://hidden-earth-55114.herokuapp.com/)<br>
 <br>
 Video walkthrough of working Book Search Application<br>
 [Video walkthrough of completed application](https://drive.google.com/file/d/1uW_dYJsDFB3zHiU3b3xuh0XSvJ6iIpTa/view)
