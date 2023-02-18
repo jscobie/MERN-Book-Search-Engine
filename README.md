@@ -9,7 +9,10 @@ This challenge is a MERN based Book Search Engine. We were provided a code base 
 
 ### Required links for review and grading submission
 [Github Repository Link](https://github.com/jscobie/MERN-Book-Search-Engine)<br>
-[Git Pages Deployed Site]()
+[Git Pages Deployed Site]()<br>
+<br>
+Video walkthrough of working Book Search Application<br>
+[Video walkthrough of completed application](https://drive.google.com/file/d/1uW_dYJsDFB3zHiU3b3xuh0XSvJ6iIpTa/view)
 
 ## Table of Contents
 
@@ -31,11 +34,7 @@ git clone git@github.com:jscobie/MERN-Book-Search-Engine.git
 ```
 npm i
 ```
-**3. You'll need to seed your databases:**
-```
-npm run seed
-```
-**4. Start a web development server:**
+**3. Start a web development server:**
 ```
 npm run develop
 ```
